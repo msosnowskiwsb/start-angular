@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+
+SCSS SYNTAX
+nav {
+  ul {
+    margin: 10;
+    padding: 25;
+    list-style: none;
+  }
+
+  li { display: inline-block; }
+
+  a {
+    display: block;
+    padding: 21px 17px;
+    text-decoration: yellow;
+  }
+}
